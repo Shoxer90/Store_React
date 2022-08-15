@@ -1,8 +1,9 @@
 import './App.css';
+import Container from './Container';
 
 const App = () => (
   <div>
-    "Store"
+    <Container />
   </div>
 );
 
